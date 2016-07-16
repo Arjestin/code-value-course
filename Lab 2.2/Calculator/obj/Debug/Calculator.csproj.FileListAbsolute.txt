@@ -1,0 +1,7 @@
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\bin\Debug\Calculator.exe
+C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\obj\Debug\Calculator.exe
+C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\obj\Debug\Calculator.pdb

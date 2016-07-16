@@ -1,0 +1,10 @@
+C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\bin\Debug\Rationals.exe.config
+C:\Users\Arjestin\Visual Studio\Lab 3.2\Rationals\bin\Debug\Rationals.exe.config
+C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\bin\Debug\Rationals.exe
+C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\bin\Debug\Rationals.pdb
+C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\obj\Debug\Rationals.exe
+C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\obj\Debug\Rationals.pdb
+C:\Users\Arjestin\Desktop\CodeValue\Lab 3.2\Rationals\bin\Debug\Rationals.exe.config
+C:\Users\Arjestin\Desktop\CodeValue\Lab 3.2\Rationals\obj\Debug\Rationals.exe
+C:\Users\Arjestin\Desktop\CodeValue\Lab 3.2\Rationals\obj\Debug\Rationals.pdb

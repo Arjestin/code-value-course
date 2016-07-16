@@ -1,0 +1,6 @@
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.pdb

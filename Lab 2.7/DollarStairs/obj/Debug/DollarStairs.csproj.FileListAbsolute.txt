@@ -1,0 +1,6 @@
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\bin\Debug\DollarStairs.exe.config
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\bin\Debug\DollarStairs.exe
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\bin\Debug\DollarStairs.pdb
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.exe
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.pdb

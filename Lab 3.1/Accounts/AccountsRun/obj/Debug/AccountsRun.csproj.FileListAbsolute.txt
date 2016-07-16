@@ -1,0 +1,11 @@
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.exe.config
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.exe
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.pdb
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsLib.dll
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsLib.pdb
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.exe
+C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.pdb
+C:\Users\Arjestin\Desktop\CodeValue\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.exe.config
+C:\Users\Arjestin\Desktop\CodeValue\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.exe
+C:\Users\Arjestin\Desktop\CodeValue\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.pdb

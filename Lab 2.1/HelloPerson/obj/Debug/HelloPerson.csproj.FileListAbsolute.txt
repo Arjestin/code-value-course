@@ -1,0 +1,6 @@
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.1\HelloPerson\bin\Debug\HelloPerson.exe.config
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.1\HelloPerson\bin\Debug\HelloPerson.exe
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.1\HelloPerson\bin\Debug\HelloPerson.pdb
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.1\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.1\HelloPerson\obj\Debug\HelloPerson.exe
+C:\Users\CodeValue_2\Desktop\Labs\Lab 2.1\HelloPerson\obj\Debug\HelloPerson.pdb

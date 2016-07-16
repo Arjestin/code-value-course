@@ -1,0 +1,6 @@
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\obj\Debug\MulBoard.pdb

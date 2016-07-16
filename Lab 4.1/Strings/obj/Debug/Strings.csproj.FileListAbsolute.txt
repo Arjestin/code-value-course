@@ -1,0 +1,9 @@
+C:\Users\CodeValue_2\Desktop\Lab 4.1\Strings\bin\Debug\Strings.exe.config
+C:\Users\CodeValue_2\Desktop\Lab 4.1\Strings\bin\Debug\Strings.exe
+C:\Users\CodeValue_2\Desktop\Lab 4.1\Strings\bin\Debug\Strings.pdb
+C:\Users\CodeValue_2\Desktop\Lab 4.1\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue_2\Desktop\Lab 4.1\Strings\obj\Debug\Strings.exe
+C:\Users\CodeValue_2\Desktop\Lab 4.1\Strings\obj\Debug\Strings.pdb
+C:\Users\Arjestin\Desktop\CodeValue\Lab 4.1\Strings\bin\Debug\Strings.exe.config
+C:\Users\Arjestin\Desktop\CodeValue\Lab 4.1\Strings\obj\Debug\Strings.exe
+C:\Users\Arjestin\Desktop\CodeValue\Lab 4.1\Strings\obj\Debug\Strings.pdb

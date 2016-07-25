@@ -4,6 +4,7 @@ namespace HelloPerson
 {
     internal static class IO
     {
+        //"ReadName" sounds like a general use method, but in reality it has specific logic for 2.1
         internal static string ReadName()
         {
             var name = string.Empty;
@@ -12,6 +13,8 @@ namespace HelloPerson
                 Console.WriteLine("What’s your name?");
                 name = Console.ReadLine();
             }
+
+            //C# 6 feature - cool
             Console.WriteLine($"Hello {name}.");
             Console.WriteLine();
             return name;
@@ -23,6 +26,8 @@ namespace HelloPerson
             while (number < 1 || number > 10)
             {
                 var input = string.Empty;
+
+                //nice
                 while (string.IsNullOrEmpty(input))
                 {
                     Console.Write("Enter a number in the range 1-10: ");

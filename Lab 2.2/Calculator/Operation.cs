@@ -2,6 +2,7 @@
 
 namespace Calculator
 {
+    //Nice idea
     internal class Operation
     {
         private double LeftOperand { get; }

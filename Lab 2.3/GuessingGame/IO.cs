@@ -2,6 +2,7 @@
 
 namespace GuessingGame
 {
+    //This IO class isn't a good idea
     internal static class IO
     {
         internal static int ReadGuessedNumber(Secret secret)

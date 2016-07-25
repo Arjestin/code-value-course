@@ -1,5 +1,6 @@
 ﻿namespace GuessingGame
 {
+    //Nice job
     internal static class Program
     {
         private static void Main()

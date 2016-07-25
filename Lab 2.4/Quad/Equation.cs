@@ -2,6 +2,7 @@
 
 namespace Quad
 {
+    //It was a good idea to create a new class for this
     internal class Equation
     {
         internal double A { get; set; }

@@ -1,5 +1,6 @@
 ﻿namespace Quad
 {
+    //You are reading command line arguments.
     internal static class Program
     {
         private static void Main()

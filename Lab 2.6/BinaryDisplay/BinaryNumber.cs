@@ -9,6 +9,7 @@ namespace BinaryDisplay
         internal string Binary { get; }
         internal int HammingWeight { get; }
 
+        //The lab asked to use bitwise operations. Though it is nice you are using linq
         private static int CalculateHammingWeight(string binary)
         {
             return binary.Count(digit => digit == '1');

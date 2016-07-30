@@ -5,3 +5,9 @@ C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\bin\Debug\Calculator.exe
 C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\bin\Debug\Calculator.pdb
 C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\obj\Debug\Calculator.exe
 C:\Users\CodeValue_2\Desktop\Lab 2.2\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.2\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.2\Calculator\obj\Debug\Calculator.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.2\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.2\Calculator\bin\Debug\Calculator.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.2\Calculator\bin\Debug\Calculator.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.2\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

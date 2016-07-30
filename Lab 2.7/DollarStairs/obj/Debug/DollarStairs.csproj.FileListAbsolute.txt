@@ -4,3 +4,9 @@ C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\bin\Debug\DollarStairs
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.exe
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.7\DollarStairs\bin\Debug\DollarStairs.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.7\DollarStairs\bin\Debug\DollarStairs.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.7\DollarStairs\bin\Debug\DollarStairs.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.7\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache

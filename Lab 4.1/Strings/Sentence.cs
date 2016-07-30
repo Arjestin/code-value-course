@@ -5,6 +5,7 @@ namespace Strings
 {
     internal class Sentence
     {
+        //Cool
         private static readonly char[] DelimiterChars = {' ', ',', '.', ':', ';', '!', '?', '\t'};
 
         internal static string ReadSentence()
@@ -16,6 +17,8 @@ namespace Strings
         internal static string[] WriteSentenceLength(string sentence)
         {
             var words = sentence.Split(DelimiterChars);
+
+            //Linq is cool
             words = words.Where(word => word != string.Empty).ToArray();
             Console.WriteLine();
             Console.WriteLine($"There are {words.Length} words in the sentence.");

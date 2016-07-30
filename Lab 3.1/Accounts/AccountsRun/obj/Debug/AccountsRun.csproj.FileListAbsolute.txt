@@ -9,3 +9,11 @@ C:\Users\CodeValue_2\Desktop\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.
 C:\Users\Arjestin\Desktop\CodeValue\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.exe.config
 C:\Users\Arjestin\Desktop\CodeValue\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.exe
 C:\Users\Arjestin\Desktop\CodeValue\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsRun.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsLib.dll
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\bin\Debug\AccountsLib.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.1\Accounts\AccountsRun\obj\Debug\AccountsRun.csprojResolveAssemblyReference.cache

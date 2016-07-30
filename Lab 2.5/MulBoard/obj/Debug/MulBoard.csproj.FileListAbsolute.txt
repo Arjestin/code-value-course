@@ -4,3 +4,9 @@ C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\bin\Debug\MulBoard.pdb
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\obj\Debug\MulBoard.exe
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.5\MulBoard\obj\Debug\MulBoard.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.5\MulBoard\bin\Debug\MulBoard.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.5\MulBoard\obj\Debug\MulBoard.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.5\MulBoard\obj\Debug\MulBoard.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.5\MulBoard\bin\Debug\MulBoard.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.5\MulBoard\bin\Debug\MulBoard.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.5\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache

@@ -5,3 +5,9 @@ C:\Users\Arjestin\Visual Studio\Labs\Lab 2.4\Quad\bin\Debug\Quad.pdb
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.4\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.4\Quad\obj\Debug\Quad.exe
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.4\Quad\obj\Debug\Quad.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.4\Quad\bin\Debug\Quad.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.4\Quad\obj\Debug\Quad.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.4\Quad\obj\Debug\Quad.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.4\Quad\bin\Debug\Quad.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.4\Quad\bin\Debug\Quad.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.4\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache

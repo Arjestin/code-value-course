@@ -4,3 +4,9 @@ C:\Users\CodeValue_2\Desktop\Labs\Lab 2.3\GuessingGame\bin\Debug\GuessingGame.pd
 C:\Users\CodeValue_2\Desktop\Labs\Lab 2.3\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
 C:\Users\CodeValue_2\Desktop\Labs\Lab 2.3\GuessingGame\obj\Debug\GuessingGame.exe
 C:\Users\CodeValue_2\Desktop\Labs\Lab 2.3\GuessingGame\obj\Debug\GuessingGame.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.3\GuessingGame\bin\Debug\GuessingGame.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.3\GuessingGame\obj\Debug\GuessingGame.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.3\GuessingGame\obj\Debug\GuessingGame.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.3\GuessingGame\bin\Debug\GuessingGame.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.3\GuessingGame\bin\Debug\GuessingGame.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.3\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache

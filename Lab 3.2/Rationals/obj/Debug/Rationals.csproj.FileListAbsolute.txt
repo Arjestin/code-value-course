@@ -8,3 +8,9 @@ C:\Users\CodeValue_2\Desktop\Lab 3.2\Rationals\obj\Debug\Rationals.pdb
 C:\Users\Arjestin\Desktop\CodeValue\Lab 3.2\Rationals\bin\Debug\Rationals.exe.config
 C:\Users\Arjestin\Desktop\CodeValue\Lab 3.2\Rationals\obj\Debug\Rationals.exe
 C:\Users\Arjestin\Desktop\CodeValue\Lab 3.2\Rationals\obj\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.2\Rationals\bin\Debug\Rationals.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.2\Rationals\obj\Debug\Rationals.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.2\Rationals\obj\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.2\Rationals\bin\Debug\Rationals.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.2\Rationals\bin\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 3.2\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache

@@ -4,3 +4,9 @@ C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDispl
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.exe
 C:\Users\Arjestin\Visual Studio\Labs\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.6\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Alon Reznik\code-value-course\Lab 2.6\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache

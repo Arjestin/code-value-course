@@ -8,6 +8,7 @@ namespace AccountsLib
 
         public static Account CreateAccount(double sum)
         {
+            //Shouldn't this be handled at deposite?
             if (sum < 0)
             {
                 Console.WriteLine("Error: The initial balance cannot be less than zero!");

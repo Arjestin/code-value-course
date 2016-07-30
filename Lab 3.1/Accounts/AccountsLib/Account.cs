@@ -12,6 +12,8 @@ namespace AccountsLib
             Id = id;
         }
 
+        //Should throw an exception or return bool. Printing a console message isn't good.
+        //How would you know whether it failed or not? How will you test it using UnitTests?
         public void Deposit(double sum)
         {
             if (sum < 0)
@@ -25,6 +27,7 @@ namespace AccountsLib
             }
         }
 
+        //The same as above
         public void Withdraw(double sum)
         {
             if (sum < 0)
@@ -46,6 +49,7 @@ namespace AccountsLib
             }
         }
 
+        //Same as above
         public void Transfer(Account account, double sum)
         {
             if (sum < 0)
@@ -54,6 +58,7 @@ namespace AccountsLib
             }
             else
             {
+                //Nice.
                 Withdraw(sum);
                 account.Deposit(sum);
             }

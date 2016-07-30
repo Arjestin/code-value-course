@@ -2,10 +2,16 @@
 
 namespace Rationals
 {
+    //Not struct
     public class Rational
     {
+        //This should have been readonly
         private int Numerator { get; set; }
+
+        //This should have been readonly
         private int Denominator { get; set; }
+
+        //Nice.
         public double Value => (double) Numerator/Denominator;
 
         private void Reduce()
@@ -25,6 +31,7 @@ namespace Rationals
         {
             Numerator = numerator;
             Denominator = denominator;
+
             if (Denominator == 0)
             {
                 Numerator = 0;
@@ -40,12 +47,14 @@ namespace Rationals
             return $"{Numerator}/{Denominator}";
         }
 
+        //This is not object.Equals
         public bool Equals(Rational rational)
         {
             return Numerator == rational.Numerator &&
                    Denominator == rational.Denominator;
         }
 
+        //Why is this static?
         public static Rational Add(Rational rational1, Rational rational2)
         {
             return new Rational(
@@ -54,6 +63,7 @@ namespace Rationals
                 rational1.Denominator*rational2.Denominator);
         }
 
+        //Why is this static?
         public static Rational Mul(Rational rational1, Rational rational2)
         {
             return new Rational(

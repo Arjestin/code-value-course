@@ -1,0 +1,9 @@
+C:\Users\Alon\Desktop\Timer\TimerTest\bin\Debug\TimerTest.dll
+C:\Users\Alon\Desktop\Timer\TimerTest\bin\Debug\TimerTest.pdb
+C:\Users\Alon\Desktop\Timer\TimerTest\bin\Debug\DelegatesAndEvents.exe
+C:\Users\Alon\Desktop\Timer\TimerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alon\Desktop\Timer\TimerTest\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\Alon\Desktop\Timer\TimerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Alon\Desktop\Timer\TimerTest\obj\Debug\TimerTest.csprojResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\Timer\TimerTest\obj\Debug\TimerTest.dll
+C:\Users\Alon\Desktop\Timer\TimerTest\obj\Debug\TimerTest.pdb

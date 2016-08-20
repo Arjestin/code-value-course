@@ -1,0 +1,26 @@
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.UI.exe.config
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.UI.exe
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.UI.pdb
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.Framework.dll
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.Framework.pdb
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.csprojResolveAssemblyReference.cache
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.exe
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.pdb
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.Properties.Resources.resources
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.csproj.GenerateResource.Cache
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.UI.exe.config
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.exe
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.UI.exe
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.UI.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.Framework.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.Framework.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.csprojResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.Properties.Resources.resources
+C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.csproj.GenerateResource.Cache
+C:\Users\Alon\Desktop\CodeValue\Advanced .NET\Backgammon.Ver1\Backgammon.UI\bin\Debug\Backgammon.UI.exe.config
+C:\Users\Alon\Desktop\CodeValue\Advanced .NET\Backgammon.Ver1\Backgammon.UI\obj\Debug\Backgammon.UI.exe
+C:\Users\Alon\Desktop\CodeValue\Advanced .NET\Backgammon.Ver1\Backgammon.UI\obj\Debug\Backgammon.UI.pdb
+C:\Users\Alon\Desktop\Repos\code-value-course\Backgammon.Ver1\Backgammon.UI\bin\Debug\Backgammon.UI.exe.config
+C:\Users\Alon\Desktop\Repos\code-value-course\Backgammon.Ver1\Backgammon.UI\obj\Debug\Backgammon.UI.exe
+C:\Users\Alon\Desktop\Repos\code-value-course\Backgammon.Ver1\Backgammon.UI\obj\Debug\Backgammon.UI.pdb

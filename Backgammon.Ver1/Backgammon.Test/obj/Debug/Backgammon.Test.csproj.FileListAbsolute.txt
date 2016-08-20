@@ -1,0 +1,9 @@
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\bin\Debug\Backgammon.Test.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\bin\Debug\Backgammon.Test.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\bin\Debug\Backgammon.Framework.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\bin\Debug\Backgammon.Framework.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\obj\Debug\Backgammon.Test.csprojResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\obj\Debug\Backgammon.Test.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Test\obj\Debug\Backgammon.Test.pdb

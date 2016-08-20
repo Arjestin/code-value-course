@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndEvents", "DelegatesAndEvents\DelegatesAndEvents.csproj", "{8F7C4634-6FC3-4A56-A4FF-C2FB2B9A9985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTest", "TimerTest\TimerTest.csproj", "{11111967-F8EE-4841-9C71-1144699BD9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7C4634-6FC3-4A56-A4FF-C2FB2B9A9985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7C4634-6FC3-4A56-A4FF-C2FB2B9A9985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7C4634-6FC3-4A56-A4FF-C2FB2B9A9985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7C4634-6FC3-4A56-A4FF-C2FB2B9A9985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11111967-F8EE-4841-9C71-1144699BD9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11111967-F8EE-4841-9C71-1144699BD9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11111967-F8EE-4841-9C71-1144699BD9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11111967-F8EE-4841-9C71-1144699BD9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

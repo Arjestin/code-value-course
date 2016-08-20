@@ -1,0 +1,10 @@
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.Framework\bin\Debug\Backgammon.Framework.dll
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.Framework\bin\Debug\Backgammon.Framework.pdb
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.dll
+C:\Users\Arjestin\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\bin\Debug\Backgammon.Framework.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\bin\Debug\Backgammon.Framework.pdb
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.dll
+C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.pdb

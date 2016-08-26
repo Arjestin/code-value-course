@@ -18,3 +18,13 @@ C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\bin\Debug\Backgammon.Framework.pd
 C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.csprojResolveAssemblyReference.cache
 C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.Properties.Resources.resources
 C:\Users\Alon\Desktop\Backgammon\Backgammon.UI\obj\Debug\Backgammon.UI.csproj.GenerateResource.Cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\bin\Debug\Backgammon.UI.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\obj\Debug\Backgammon.UI.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\obj\Debug\Backgammon.UI.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\bin\Debug\Backgammon.UI.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\bin\Debug\Backgammon.UI.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\bin\Debug\Backgammon.Framework.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\bin\Debug\Backgammon.Framework.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\obj\Debug\Backgammon.UI.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\obj\Debug\Backgammon.UI.Properties.Resources.resources
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.UI\obj\Debug\Backgammon.UI.csproj.GenerateResource.Cache

@@ -1,0 +1,79 @@
+*)You have two backgammon versions in your repository - I assumed you intended version 2 to be checked, so every comment in this document addresses version 2.
+
+*) A+ for effort - you really put your heart into it and it is good to see it!
+
+*)Getting rid of magic numbers - a magic number is a constant without a meaningful name which is located in your code.
+It is magic in the sense that no one really has an idea as to how its value serves the purpose of the code.
+
+Example: "26" in Backgammon.UI.Board (line 53) may mean something to you, but it means nothing to me- and will mean nothing to you in a few months
+
+Consider this:
+
+private const int MeaningfulName = 26;
+
+The constant can then be used in many places in your code, and can be changed (if necessary) by applying a single change to the constant's value-
+Instead of taking the risk of forgetting to change it somewhere.
+
+*) The UI should not specify the initial positions of the checkers.
+Such decisions should be left up to the engine, whereas the UI is merely a means to display information and manipulate it via simple method calls to the engine.
+
+*)It is good that you decoupled the framework color from the console color and created a mapping between them.
+
+*) You have created a framework design which is tailored to a specific UI - the console application.
+Your command model is compatible to any UI framework so long that the player only uses the keyboard to play..
+What if I wanted to use your game engine to make a WPF or WinForms app which supports a mouse and possibly even dragging and dropping?
+It would be possible, but it would require creating a rather complex work around code in order to really work.
+It would be a lot better if you created an API which enables to move a piece from one triangle to another, and notifies you when a move is not legal. something along the lines of:
+
+interface Backgammon.Framework.IPoint
+{
+Color Color{get;}
+int CheckerCount {get;}
+}
+ 
+interface Backgammon.Framework.IGame
+{
+int MinIndex {get;}
+int MaxIndex {get;}
+bool TryMove(int source, int target);
+IEnumerable<IPoint> Points {get;}
+}
+
+ 
+*) IPlayer.Display method is a poor design choice, since it indicates that the game engine is aware that a "display" option exists.
+
+Every logical layer you ever compose should not be aware of UI existence, since it is not always necessary that a UI will exist.
+Such a layer can then be hosted by a windows service, that does not even have a desktop- or a unit test -or a web server.
+ 
+It is the UI layer's job to translate data into display, since only it can assure that a display operation will be supported and meaningful.
+Imagine that I write some test player for a test project.. what is the expected result of the display method in this case?
+there is none.. this indicates that something is wrong in my design, since everything should have a meaning when writing code.
+
+You could move the Display method, which is not used by the engine in any case, into the IUIPlayer which extends the IPlayer interface, for example.
+ 
+*) IPoint, IBoard, IGame - same comment.
+Displaying should be left to a layer which got a hold of the instance- when it suits that layer according to constraints which are not the engine's consideration.
+
+*)your UI has logic in it - the player implementation is manipulating the switch player method - the decision when to switch a player should not be left up to the UI.
+Also - Backgammon.UI.Player.ExecuteCommand method implementation is actually something that the game engine should be doing.. 
+What this method does is dictate the logical means in which the engine's internal state is manipulated- this is a logical operation.
+If i decide to write a new UI for your engine - I would have to rewrite this method..
+When you create a framework - note that if your framework design forces every framework user to write the same code all over again - then your design is probably not thought through and you should put in more work.
+
+*)Consider shortening complex boolean expressions (Backgammon.Framework.Game - line 134 as an example) : this is really hard to understand - and not entirely visible on my 27 inch screen.
+Consider breaking down to multiple expressions with meaningful names.
+
+*) Consider shortening methods (Backgammon.Framework.Game.MoveChecker as an example) 
+Break such methods down into smaller, well defined methods with meaningful names
+This will help with readability- which is good for team work and for you when you return to code you wrote after a while.
+And with traceability (ease of navigation in code) when bug hunting.
+
+
+*)Exceptions
+It is good that you thought of throwing an exception when something invalid happens, but carefully consider this:
+An exception should be thrown when some error occurred, and the error is so critical- that the program could not recover from it successsfully and its flow of code must be interrupted immediately and not allowed to normally execute.
+
+In the case of trying to make a wrong move, the program can recover - the engine could return a boolean value which will tell the UI that the move was not carried out
+The UI could then use this information in order to properly render itself.
+
+Consider that throwing an exception effectively terminates the flow of the method which called the throwing method. This is not always desirable.

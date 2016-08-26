@@ -8,3 +8,8 @@ C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\bin\Debug\Backgammon.Frame
 C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.csprojResolveAssemblyReference.cache
 C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.dll
 C:\Users\Alon\Desktop\Backgammon\Backgammon.Framework\obj\Debug\Backgammon.Framework.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.Framework\bin\Debug\Backgammon.Framework.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.Framework\bin\Debug\Backgammon.Framework.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.Framework\obj\Debug\Backgammon.Framework.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.Framework\obj\Debug\Backgammon.Framework.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Alon Reznik\code-value-course\Backgammon.Ver2\Backgammon.Framework\obj\Debug\Backgammon.Framework.pdb
